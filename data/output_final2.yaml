@@ -1,0 +1,1747 @@
+- end_location:
+  - 92.37647247314453
+  - 42.57807922363281
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 269.99127197265625
+  - 0.0
+  id: 000080
+  lighting: Day
+  speed: 40.0
+  start_location:
+  - 279.16973876953125
+  - 55.47699737548828
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 179.99301147460938
+  - 0.0
+  town: Town01
+  weather: Normal
+- ego: bicycle
+  end_location:
+  - 88.3858871459961
+  - 104.47616577148438
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 89.99127960205078
+  - 0.0
+  id: 000609
+  lighting: Day
+  speed: 10.0
+  start_location:
+  - 154.0276641845703
+  - 43.017539978027344
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 90.06959533691406
+  - 0.0
+  town: Town01
+  weather: Normal
+- end_location:
+  - 182.009765625
+  - 330.598388671875
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 0.006118634715676308
+  - 0.0
+  id: 000618
+  lighting: Day
+  speed: 8.0
+  start_location:
+  - 62.0089225769043
+  - 330.5678405761719
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 0.03069334849715233
+  - 0.0
+  town: Town01
+  weather: Normal
+- end_location:
+  - 334.8064270019531
+  - 154.78875732421875
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 90.03459930419922
+  - 0.0
+  id: '000721'
+  lighting: Night
+  speed: 4.0
+  start_location:
+  - 334.87890625
+  - 34.78878402709961
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 90.03459930419922
+  - 0.0
+  town: Town01
+  weather: Normal
+- end_location:
+  - 92.4154052734375
+  - 298.682861328125
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 269.99127197265625
+  - 0.0
+  id: '000755'
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - -1.9805481433868408
+  - 239.96099853515625
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 89.9700698852539
+  - 0.0
+  town: Town01
+  weather: Normal
+- end_location:
+  - -1.9890024662017822
+  - 309.9596862792969
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 90.00747680664062
+  - 0.0
+  id: '000770'
+  lighting: Day
+  speed: 30.0
+  start_location:
+  - -2.0484466552734375
+  - 109.9610366821289
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 89.9700698852539
+  - 0.0
+  town: Town01
+  weather: Normal
+- end_location:
+  - 334.8044128417969
+  - 158.11599731445312
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 90.03459930419922
+  - 0.0
+  id: 000882
+  lighting: Day
+  speed: 15.0
+  start_location:
+  - 291.6289367675781
+  - 1.9706159830093384
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 0.03045654296875
+  - 0.0
+  town: Town01
+  weather: Normal
+- end_location:
+  - 92.38075256347656
+  - 70.7216796875
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 269.99127197265625
+  - 0.0
+  id: 000891
+  lighting: Day
+  speed: 15.0
+  start_location:
+  - 167.420166015625
+  - 195.146240234375
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 180.00465393066406
+  - 0.0
+  town: Town01
+  weather: Normal
+- end_location:
+  - 39.994327545166016
+  - -2.029439926147461
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 179.9813232421875
+  - 0.0
+  id: 001118
+  lighting: Day
+  speed: 2.0
+  start_location:
+  - 109.38975524902344
+  - 55.497684478759766
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 179.99301147460938
+  - 0.0
+  town: Town01
+  weather: Normal
+- end_location:
+  - 31.5018310546875
+  - 187.56668090820312
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 180.02626037597656
+  - 0.0
+  id: '000014'
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - 122.66065979003906
+  - 302.5550842285156
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 180.01942443847656
+  - 0.0
+  town: Town02
+  weather: Normal
+- end_location:
+  - 79.07366180419922
+  - 240.89157104492188
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 0.0348052978515625
+  - 0.0
+  id: 000080
+  lighting: Day
+  speed: 40.0
+  start_location:
+  - 148.6572265625
+  - 302.544189453125
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 179.92127990722656
+  - 0.0
+  town: Town02
+  weather: Normal
+- end_location:
+  - 193.6917266845703
+  - 214.17453002929688
+  - 0.0
+  end_rotation:
+  - 0.0
+  - -90.01294708251953
+  - 0.0
+  id: '000132'
+  lighting: Day
+  speed: 10.0
+  start_location:
+  - 45.8571662902832
+  - 271.9598083496094
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -90.00496673583984
+  - 0.0
+  town: Town02
+  weather: Snowy
+- end_location:
+  - 43.10091018676758
+  - 187.57199096679688
+  - 0.0
+  end_rotation:
+  - 360.0
+  - -179.97369384765625
+  - 0.0
+  id: 000618
+  lighting: Day
+  speed: 12.0
+  start_location:
+  - 163.1009063720703
+  - 187.6269989013672
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 180.02626037597656
+  - 0.0
+  town: Town02
+  weather: Normal
+- end_location:
+  - 78.68097686767578
+  - 240.89134216308594
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 0.0348052978515625
+  - 0.0
+  id: '000755'
+  lighting: Day
+  speed: 15.0
+  start_location:
+  - 93.50138854980469
+  - 105.4201889038086
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -179.96102905273438
+  - 0.0
+  town: Town02
+  weather: Normal
+- ego: motorcycle
+  end_location:
+  - 185.52603149414062
+  - 191.76467895507812
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 12.126413345336914
+  - 0.0
+  id: '000770'
+  lighting: Day
+  speed: 25.0
+  start_location:
+  - 102.65930938720703
+  - 306.5483093261719
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 0.01941712014377117
+  - 0.0
+  town: Town02
+  weather: Normal
+- end_location:
+  - 189.6901092529297
+  - 206.96522521972656
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 89.98705291748047
+  - 0.0
+  id: '001135'
+  lighting: Day
+  speed: 25.0
+  start_location:
+  - 122.6593017578125
+  - 306.5550842285156
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 0.01941712014377117
+  - 0.0
+  town: Town02
+  weather: Normal
+- end_location:
+  - 193.20179748535156
+  - 235.37806701660156
+  - 0.0
+  end_rotation:
+  - 360.0
+  - -69.82022094726562
+  - 0.0
+  id: '001226'
+  lighting: Day
+  speed: 25.0
+  start_location:
+  - -7.381757736206055
+  - 127.23563385009766
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 90.12882232666016
+  - 0.0
+  town: Town02
+  weather: Rainy
+- end_location:
+  - 41.85135269165039
+  - 205.0348358154297
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 89.99503326416016
+  - 0.0
+  id: '001422'
+  lighting: Day
+  speed: 25.0
+  start_location:
+  - 157.49864196777344
+  - 105.43629455566406
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 179.96107482910156
+  - 0.0
+  town: Town02
+  weather: Snowy
+- end_location:
+  - 43.10091018676758
+  - 187.57199096679688
+  - 0.0
+  end_rotation:
+  - 360.0
+  - -179.97369384765625
+  - 0.0
+  id: '001424'
+  lighting: Day
+  speed: 12.0
+  start_location:
+  - 163.1009063720703
+  - 187.6269989013672
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 180.02626037597656
+  - 0.0
+  town: Town02
+  weather: Normal
+- end_location:
+  - -133.48841857910156
+  - 130.2299041748047
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 210.71304321289062
+  - 0.0
+  id: '000014'
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - -88.69474792480469
+  - -120.9089584350586
+  - -0.1070873886346817
+  start_rotation:
+  - -0.7317418456077576
+  - 89.84373474121094
+  - 0.0
+  town: Town03
+  weather: Normal
+- end_location:
+  - -84.58768463134766
+  - 0.4477500915527344
+  - 0.0
+  end_rotation:
+  - 360.0
+  - -359.705322265625
+  - 0.0
+  id: '000036'
+  lighting: Day
+  speed: 10.0
+  start_location:
+  - -70.1750717163086
+  - 182.06442260742188
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 234.6597137451172
+  - 0.0
+  town: Town03
+  weather: Normal
+- end_location:
+  - 236.8658447265625
+  - -71.8287353515625
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 91.39320373535156
+  - 0.0
+  id: 000080
+  lighting: Day
+  speed: 40.0
+  start_location:
+  - 53.538795471191406
+  - -196.15875244140625
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 1.4395599365234375
+  - 0.0
+  town: Town03
+  weather: Normal
+- end_location:
+  - -77.98287200927734
+  - -43.23185348510742
+  - -0.4767580032348633
+  end_rotation:
+  - 359.1603698730469
+  - 269.84375
+  - 0.0
+  id: '000340'
+  lighting: Day
+  speed: 10.0
+  start_location:
+  - -145.51629638671875
+  - 15.43444538116455
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 270.02984619140625
+  - 0.0
+  town: Town03
+  weather: Normal
+- end_location:
+  - 56.785396575927734
+  - -206.58047485351562
+  - 0.0
+  end_rotation:
+  - 0.0
+  - -178.56044006347656
+  - 0.0
+  id: 000487
+  lighting: Day
+  speed: 10.0
+  start_location:
+  - 176.20999145507812
+  - -207.89999389648438
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 180.0
+  - 0.0
+  town: Town03
+  weather: Normal
+- end_location:
+  - -148.96397399902344
+  - -84.98736572265625
+  - 0.4757568836212158
+  end_rotation:
+  - -0.6521258354187012
+  - 90.02984619140625
+  - 0.0
+  id: '000721'
+  lighting: Night
+  speed: 8.0
+  start_location:
+  - -61.35014343261719
+  - -139.58665466308594
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -178.77273559570312
+  - 0.0
+  town: Town03
+  weather: Normal
+- end_location:
+  - -28.555282592773438
+  - -198.2218017578125
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 1.4395599365234375
+  - 0.0
+  id: '000750'
+  lighting: Day
+  speed: 13.0
+  start_location:
+  - -78.18933868408203
+  - -118.93760681152344
+  - -0.1341531127691269
+  start_rotation:
+  - 360.8190002441406
+  - 269.84375
+  - 0.0
+  town: Town03
+  weather: Normal
+- end_location:
+  - 27.91135025024414
+  - 7.171898365020752
+  - -0.0052088056690990925
+  end_rotation:
+  - -0.14472122490406036
+  - -6.62856388092041
+  - 0.0
+  id: '000755'
+  lighting: Day
+  speed: 15.0
+  start_location:
+  - -121.69792938232422
+  - 0.25693225860595703
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 0.29461669921875
+  - 0.0
+  town: Town03
+  weather: Normal
+- end_location:
+  - 156.6020050048828
+  - 196.61558532714844
+  - 2.564572811126709
+  end_rotation:
+  - -1.2747502326965332
+  - 178.5867462158203
+  - 0.0
+  id: '000770'
+  lighting: Day
+  speed: 25.0
+  start_location:
+  - 180.15293884277344
+  - 5.711366653442383
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 0.855804443359375
+  - 0.0
+  town: Town03
+  weather: Normal
+- end_location:
+  - 14.02587890625
+  - 134.39219665527344
+  - 0.0
+  end_rotation:
+  - 0.0
+  - -0.817203938961029
+  - 0.0
+  id: 000882
+  lighting: Day
+  speed: 15.0
+  start_location:
+  - -105.93302917480469
+  - 136.36727905273438
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -1.2968021631240845
+  - 0.0
+  town: Town03
+  weather: Normal
+- end_location:
+  - -72.2514419555664
+  - 0.5111819505691528
+  - 0.0
+  end_rotation:
+  - 360.0
+  - -359.705322265625
+  - 0.0
+  id: 000891
+  lighting: Day
+  speed: 15.0
+  start_location:
+  - -88.12344360351562
+  - 88.57025909423828
+  - 0.5670613050460815
+  start_rotation:
+  - -1.0124717950820923
+  - 89.84373474121094
+  - 0.0
+  town: Town03
+  weather: Normal
+- end_location:
+  - 241.36358642578125
+  - 31.140745162963867
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 271.3931884765625
+  - 0.0
+  id: 000949
+  lighting: Day
+  speed: 30.0
+  start_location:
+  - 139.23580932617188
+  - 58.96880340576172
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 179.8525848388672
+  - 0.0
+  town: Town03
+  weather: Normal
+- end_location:
+  - -5.038841247558594
+  - -208.1341094970703
+  - 0.0
+  end_rotation:
+  - 0.0
+  - -178.56044006347656
+  - 0.0
+  id: 001118
+  lighting: Day
+  speed: 15.0
+  start_location:
+  - 114.92329406738281
+  - -205.1194610595703
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -178.56044006347656
+  - 0.0
+  town: Town03
+  weather: Normal
+- end_location:
+  - -3.679442882537842
+  - -154.1112060546875
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 91.41354370117188
+  - 0.0
+  id: '001226'
+  lighting: Day
+  speed: 25.0
+  start_location:
+  - 4.8693037033081055
+  - -74.9065170288086
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -88.58645629882812
+  - 0.0
+  town: Town03
+  weather: Rainy
+- end_location:
+  - 408.88372802734375
+  - -56.62821578979492
+  - 0.0
+  end_rotation:
+  - 360.0
+  - -89.56088256835938
+  - 0.0
+  id: '000031'
+  lighting: Day
+  speed: 5.0
+  start_location:
+  - 254.78363037109375
+  - 174.02601623535156
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -23.342483520507812
+  - 0.0
+  town: Town04
+  weather: Snowy
+- end_location:
+  - -314.4775085449219
+  - 37.025367736816406
+  - 0.41591790318489075
+  end_rotation:
+  - 360.99884033203125
+  - 0.0768280029296875
+  - 0.0
+  id: 000080
+  lighting: Day
+  speed: 35.0
+  start_location:
+  - -221.44287109375
+  - -94.64257049560547
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 163.70269775390625
+  - 0.0
+  town: Town04
+  weather: Normal
+- end_location:
+  - 3.0549404621124268
+  - 255.64788818359375
+  - 0.0
+  end_rotation:
+  - 0.0
+  - -80.2099609375
+  - 0.0
+  id: '000330'
+  lighting: Day
+  speed: 30.0
+  start_location:
+  - -219.66702270507812
+  - 425.14471435546875
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -0.2081967145204544
+  - 0.0
+  town: Town04
+  weather: Normal
+- end_location:
+  - -12.025413513183594
+  - 110.89348602294922
+  - 0.0
+  end_rotation:
+  - 360.0
+  - -270.2890930175781
+  - 0.0
+  id: '000755'
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - -13.303855895996094
+  - -189.11749267578125
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 89.775146484375
+  - 0.0
+  town: Town04
+  weather: Normal
+- ego: motorcycle
+  end_location:
+  - -173.6846923828125
+  - 5.714114189147949
+  - 6.092275619506836
+  end_rotation:
+  - -2.9702320098876953
+  - -179.9231719970703
+  - 0.0
+  id: 000873
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - -53.684810638427734
+  - 5.8750104904174805
+  - 10.078729629516602
+  start_rotation:
+  - -0.9791744947433472
+  - -179.9231719970703
+  - 0.0
+  town: Town04
+  weather: Normal
+- end_location:
+  - -27.54863929748535
+  - 296.7148132324219
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 113.9557876586914
+  - 0.0
+  id: '001226'
+  lighting: Day
+  speed: 25.0
+  start_location:
+  - -12.545395851135254
+  - 4.141016960144043
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 89.775146484375
+  - 0.0
+  town: Town04
+  weather: Rainy
+- end_location:
+  - -130.56695556640625
+  - 37.27195739746094
+  - 8.327200889587402
+  end_rotation:
+  - 362.8316345214844
+  - 0.0768280029296875
+  - 0.0
+  id: '001422'
+  lighting: Day
+  speed: 30.0
+  start_location:
+  - -429.0809631347656
+  - 37.69659423828125
+  - 0.0
+  start_rotation:
+  - 360.0
+  - -5.294891357421875
+  - 0.0
+  town: Town04
+  weather: Snowy
+- end_location:
+  - 299.3052978515625
+  - -168.95291137695312
+  - 0.195892333984375
+  end_rotation:
+  - 0.0
+  - 0.3261248767375946
+  - 0.0
+  id: '001424'
+  lighting: Day
+  speed: 5.0
+  start_location:
+  - 179.30723571777344
+  - -169.63595581054688
+  - 0.195892333984375
+  start_rotation:
+  - 0.0
+  - 0.3261248767375946
+  - 0.0
+  town: Town04
+  weather: Normal
+- end_location:
+  - 57.297386169433594
+  - 91.92359161376953
+  - 0.0
+  end_rotation:
+  - 0.0
+  - -2.10898494720459
+  - 0.0
+  id: '000014'
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - -191.5625
+  - 31.19622230529785
+  - 0.055450439453125
+  start_rotation:
+  - 360.0
+  - 89.98420715332031
+  - 0.0
+  town: Town05
+  weather: Normal
+- end_location:
+  - -129.65792846679688
+  - 205.12449645996094
+  - 8.431970596313477
+  end_rotation:
+  - -0.6045452356338501
+  - -0.028712520375847816
+  - 0.0
+  id: '000031'
+  lighting: Day
+  speed: 10.0
+  start_location:
+  - -243.36636352539062
+  - -32.423500061035156
+  - 10.0
+  start_rotation:
+  - 0.0
+  - 89.156005859375
+  - 0.0
+  town: Town05
+  weather: Snowy
+- end_location:
+  - 192.27542114257812
+  - 106.14955139160156
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 94.35999298095703
+  - 0.0
+  id: '000036'
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - 154.30563354492188
+  - -172.67686462402344
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 36.086517333984375
+  - 0.0
+  town: Town05
+  weather: Normal
+- end_location:
+  - 33.307167053222656
+  - -88.71055603027344
+  - 1.52587890625e-05
+  end_rotation:
+  - 360.0
+  - 271.5320739746094
+  - 0.0
+  id: '000053'
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - 31.599592208862305
+  - 31.217721939086914
+  - 1.52587890625e-05
+  start_rotation:
+  - 0.0
+  - -89.97710418701172
+  - 0.0
+  town: Town05
+  weather: Snowy
+- end_location:
+  - 60.49338912963867
+  - -204.20947265625
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 179.757080078125
+  - 0.0
+  id: 000080
+  lighting: Day
+  speed: 40.0
+  start_location:
+  - 207.51234436035156
+  - 3.6711862087249756
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -90.97341918945312
+  - 0.0
+  town: Town05
+  weather: Normal
+- end_location:
+  - -198.01316833496094
+  - 3.0313007831573486
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 359.86053466796875
+  - 0.0
+  id: '000330'
+  lighting: Day
+  speed: 30.0
+  start_location:
+  - -188.0742950439453
+  - -11.584739685058594
+  - 0.055450439453125
+  start_rotation:
+  - 0.0
+  - -90.01579284667969
+  - 0.0
+  town: Town05
+  weather: Normal
+- end_location:
+  - 63.0552978515625
+  - -84.015380859375
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 8.369125366210938
+  - 0.0
+  id: '000340'
+  lighting: Day
+  speed: 10.0
+  start_location:
+  - -44.393531799316406
+  - -72.68775939941406
+  - 0.055450439453125
+  start_rotation:
+  - 360.0
+  - 269.6625061035156
+  - 0.0
+  town: Town05
+  weather: Normal
+- end_location:
+  - -184.6011199951172
+  - -108.88772583007812
+  - 0.055450439453125
+  end_rotation:
+  - 0.0
+  - -90.01579284667969
+  - 0.0
+  id: 000569
+  lighting: Day
+  speed: 5.0
+  start_location:
+  - -169.18218994140625
+  - -4.038895606994629
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 179.86053466796875
+  - 0.0
+  town: Town05
+  weather: Normal
+- ego: bicycle
+  end_location:
+  - -128.39016723632812
+  - -1.3992762565612793
+  - -9.468614734942093e-06
+  end_rotation:
+  - 4.92265862703789e-05
+  - -271.08123779296875
+  - 0.0
+  id: 000609
+  lighting: Day
+  speed: 10.0
+  start_location:
+  - -127.85399627685547
+  - -121.44046783447266
+  - -1.52587890625e-05
+  start_rotation:
+  - 0.0
+  - 90.39353942871094
+  - 0.0
+  town: Town05
+  weather: Normal
+- end_location:
+  - -27.52943229675293
+  - -84.43525695800781
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 0.0863037109375
+  - 0.0
+  id: 000618
+  lighting: Day
+  speed: 5.0
+  start_location:
+  - -147.529296875
+  - -84.61602020263672
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 0.0863037109375
+  - 0.0
+  town: Town05
+  weather: Normal
+- end_location:
+  - -69.82318878173828
+  - 194.59451293945312
+  - 5.8086957931518555
+  end_rotation:
+  - 366.6429748535156
+  - 179.97128295898438
+  - 0.0
+  id: '000750'
+  lighting: Day
+  speed: 15.0
+  start_location:
+  - 50.205169677734375
+  - 194.8168487548828
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 180.28781127929688
+  - 0.0
+  town: Town05
+  weather: Normal
+- end_location:
+  - -183.15716552734375
+  - -190.89266967773438
+  - 10.010611534118652
+  end_rotation:
+  - -0.009666920639574528
+  - 154.6215362548828
+  - 0.0
+  id: '000755'
+  lighting: Day
+  speed: 25.0
+  start_location:
+  - 33.863983154296875
+  - -109.52909088134766
+  - 1.52587890625e-05
+  start_rotation:
+  - 360.0
+  - 271.5320739746094
+  - 0.0
+  town: Town05
+  weather: Normal
+- end_location:
+  - -127.44330596923828
+  - 87.47674560546875
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 89.48860931396484
+  - 0.0
+  id: 000949
+  lighting: Day
+  speed: 30.0
+  start_location:
+  - -47.657859802246094
+  - -32.6678352355957
+  - 0.055450439453125
+  start_rotation:
+  - 360.0
+  - 269.6625061035156
+  - 0.0
+  town: Town05
+  weather: Normal
+- end_location:
+  - -220.2484588623047
+  - 143.5113525390625
+  - 9.623541831970215
+  end_rotation:
+  - 360.43719482421875
+  - 242.48992919921875
+  - 0.0
+  id: 001118
+  lighting: Day
+  speed: 10.0
+  start_location:
+  - 52.22272491455078
+  - 191.3269500732422
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 180.28781127929688
+  - 0.0
+  town: Town05
+  weather: Normal
+- end_location:
+  - 28.072355270385742
+  - 99.38863372802734
+  - 1.52587890625e-05
+  end_rotation:
+  - 360.0
+  - -269.9770812988281
+  - 0.0
+  id: '001226'
+  lighting: Day
+  speed: 30.0
+  start_location:
+  - 155.0997772216797
+  - 86.27249145507812
+  - 0.038604736328125
+  start_rotation:
+  - 360.0
+  - 269.9474182128906
+  - 0.0
+  town: Town05
+  weather: Rainy
+- end_location:
+  - -150.82373046875
+  - -0.5835709571838379
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 179.86053466796875
+  - 0.0
+  id: '001424'
+  lighting: Day
+  speed: 5.0
+  start_location:
+  - -30.824085235595703
+  - -0.8756560683250427
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 179.86053466796875
+  - 0.0
+  town: Town05
+  weather: Normal
+- end_location:
+  - 665.5173950195312
+  - 102.29134368896484
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 270.62139892578125
+  - 0.0
+  id: '000014'
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - 476.5181884765625
+  - 244.68817138671875
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 0.019545903429389
+  - 0.0
+  town: Town06
+  weather: Normal
+- end_location:
+  - 360.2397766113281
+  - 41.8011360168457
+  - 0.0
+  end_rotation:
+  - 0.0
+  - -0.027895338833332062
+  - 0.0
+  id: 000080
+  lighting: Day
+  speed: 35.0
+  start_location:
+  - 60.241607666015625
+  - 41.841670989990234
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -0.053955767303705215
+  - 0.0
+  town: Town06
+  weather: Normal
+- end_location:
+  - 665.4957275390625
+  - 104.29122924804688
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 270.62139892578125
+  - 0.0
+  id: '000330'
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - 474.5181884765625
+  - 244.6875
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 0.019545903429389
+  - 0.0
+  town: Town06
+  weather: Normal
+- end_location:
+  - -8.346832275390625
+  - 132.79286193847656
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 447.012939453125
+  - 0.0
+  id: 000569
+  lighting: Day
+  speed: 10.0
+  start_location:
+  - -9.116639137268066
+  - 12.415791511535645
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 90.38229370117188
+  - 0.0
+  town: Town06
+  weather: Normal
+- end_location:
+  - -366.5741271972656
+  - 62.94548416137695
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 91.8476333618164
+  - 0.0
+  id: 000618
+  lighting: Day
+  speed: 15.0
+  start_location:
+  - -109.61658477783203
+  - -19.037654876708984
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 179.7913055419922
+  - 0.0
+  town: Town06
+  weather: Normal
+- end_location:
+  - -237.67259216308594
+  - 50.15675354003906
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 356.8175964355469
+  - 0.0
+  id: '000755'
+  lighting: Day
+  speed: 30.0
+  start_location:
+  - -139.85914611816406
+  - 138.81179809570312
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 180.13438415527344
+  - 0.0
+  town: Town06
+  weather: Normal
+- end_location:
+  - -9.551630973815918
+  - 255.88137817382812
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 89.09619140625
+  - 0.0
+  id: 000891
+  lighting: Day
+  speed: 25.0
+  start_location:
+  - -303.19354248046875
+  - 250.79534912109375
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -0.10308279097080231
+  - 0.0
+  town: Town06
+  weather: Normal
+- end_location:
+  - -2.2338008880615234
+  - 275.9729919433594
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 89.09619903564453
+  - 0.0
+  id: 000949
+  lighting: Day
+  speed: 31.0
+  start_location:
+  - -272.2206115722656
+  - 243.7396240234375
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -0.10308279097080231
+  - 0.0
+  town: Town06
+  weather: Normal
+- end_location:
+  - 321.6815490722656
+  - 147.74752807617188
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 0.23475660383701324
+  - 0.0
+  id: '001135'
+  lighting: Day
+  speed: 30.0
+  start_location:
+  - 21.684070587158203
+  - 146.5183563232422
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 0.23475660383701324
+  - 0.0
+  town: Town06
+  weather: Normal
+- end_location:
+  - 82.16790008544922
+  - 241.05364990234375
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 0.019545903429389
+  - 0.0
+  id: '001143'
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - -37.742698669433594
+  - 243.12045288085938
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -0.19892166554927826
+  - 0.0
+  town: Town06
+  weather: Normal
+- end_location:
+  - 563.0838012695312
+  - 145.23660278320312
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 0.23475660383701324
+  - 0.0
+  id: '001424'
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - 443.0848693847656
+  - 144.7449188232422
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 0.23475660383701324
+  - 0.0
+  town: Town06
+  weather: Normal
+- end_location:
+  - -99.52244567871094
+  - 40.45805358886719
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 271.15179443359375
+  - 0.0
+  id: '000014'
+  lighting: Day
+  speed: 25.0
+  start_location:
+  - -4.33944034576416
+  - -136.22622680664062
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 90.47937774658203
+  - 0.0
+  town: Town07
+  weather: Normal
+- end_location:
+  - -4.25017786026001
+  - -64.2363510131836
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 218.8055877685547
+  - 0.0
+  id: '000330'
+  lighting: Day
+  speed: 30.0
+  start_location:
+  - -2.5644423961639404
+  - 121.70472717285156
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -6.01366662979126
+  - 0.0
+  town: Town07
+  weather: Normal
+- end_location:
+  - -149.63067626953125
+  - 44.363243103027344
+  - 1.2742313629132695e-05
+  end_rotation:
+  - -2.2833342882222496e-05
+  - 261.5
+  - 0.0
+  id: '000755'
+  lighting: Day
+  speed: 25.0
+  start_location:
+  - -112.69617462158203
+  - 49.151851654052734
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -179.5030517578125
+  - 0.0
+  town: Town07
+  weather: Normal
+- end_location:
+  - -102.67066192626953
+  - -18.091100692749023
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 90.30587768554688
+  - 0.0
+  id: '000770'
+  lighting: Day
+  speed: 30.0
+  start_location:
+  - -134.25148010253906
+  - -162.43634033203125
+  - 0.13995361328125
+  start_rotation:
+  - 0.0
+  - -179.44081115722656
+  - 0.0
+  town: Town07
+  weather: Normal
+- end_location:
+  - -99.5146255493164
+  - 40.05763244628906
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 271.0881042480469
+  - 0.0
+  id: 000882
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - -12.36590576171875
+  - -66.1161880493164
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 179.46884155273438
+  - 0.0
+  town: Town07
+  weather: Normal
+- end_location:
+  - -77.370849609375
+  - -161.77230834960938
+  - 0.13995361328125
+  end_rotation:
+  - 360.0
+  - -169.2586669921875
+  - 0.0
+  id: 000891
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - -5.116905212402344
+  - -43.30641174316406
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 90.47937774658203
+  - 0.0
+  town: Town07
+  weather: Normal
+- end_location:
+  - -45.188873291015625
+  - 41.79472351074219
+  - 0.0
+  end_rotation:
+  - 0.0
+  - -90.1612319946289
+  - 0.0
+  id: '000053'
+  lighting: Day
+  speed: 15.0
+  start_location:
+  - -10.147546768188477
+  - 130.14862060546875
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -179.6478729248047
+  - 0.0
+  town: Town10HD
+  weather: Snowy
+- end_location:
+  - -87.2186279296875
+  - 27.941696166992188
+  - 0.0
+  end_rotation:
+  - 0.0
+  - 0.15919755399227142
+  - 0.0
+  id: 000080
+  lighting: Day
+  speed: 25.0
+  start_location:
+  - -45.04490661621094
+  - 92.95523834228516
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -90.1612319946289
+  - 0.0
+  town: Town10HD
+  weather: Normal
+- end_location:
+  - 56.90784454345703
+  - 134.1699676513672
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 180.32044982910156
+  - 0.0
+  id: '000330'
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - 15.812677383422852
+  - -60.9034309387207
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 359.9765625
+  - 0.0
+  town: Town10HD
+  weather: Normal
+- end_location:
+  - -75.78113555908203
+  - -61.361602783203125
+  - 0.0
+  end_rotation:
+  - 0.0
+  - -8.574411392211914
+  - 0.0
+  id: 000618
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - -76.03416442871094
+  - 12.972715377807617
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 180.15919494628906
+  - 0.0
+  town: Town10HD
+  weather: Normal
+- end_location:
+  - -56.591976165771484
+  - -68.58430480957031
+  - 0.0
+  end_rotation:
+  - 360.0
+  - -179.40325927734375
+  - 0.0
+  id: '000755'
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - 109.22633361816406
+  - 92.96942901611328
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -88.76595306396484
+  - 0.0
+  town: Town10HD
+  weather: Normal
+- end_location:
+  - -108.46231079101562
+  - 106.657958984375
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 426.94671630859375
+  - 0.0
+  id: 000882
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - 39.809814453125
+  - -67.91323852539062
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 179.97657775878906
+  - 0.0
+  town: Town10HD
+  weather: Normal
+- end_location:
+  - -104.66546630859375
+  - 114.35498046875
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 420.5401611328125
+  - 0.0
+  id: 000891
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - 31.809812545776367
+  - -67.90996551513672
+  - 0.0
+  start_rotation:
+  - 0.0
+  - 179.97657775878906
+  - 0.0
+  town: Town10HD
+  weather: Normal
+- end_location:
+  - -41.690452575683594
+  - -36.999176025390625
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 270.43231201171875
+  - 0.0
+  id: '001143'
+  lighting: Day
+  speed: 20.0
+  start_location:
+  - -41.57305908203125
+  - 82.94541931152344
+  - 0.0
+  start_rotation:
+  - 0.0
+  - -90.1612319946289
+  - 0.0
+  town: Town10HD
+  weather: Normal
+- end_location:
+  - -104.47711181640625
+  - 114.6865234375
+  - 0.0
+  end_rotation:
+  - 360.0
+  - 420.25567626953125
+  - 0.0
+  id: '001424'
+  lighting: Day
+  speed: 10.0
+  start_location:
+  - -113.67064666748047
+  - -6.325833797454834
+  - 0.0
+  start_rotation:
+  - 360.0
+  - 90.6422348022461
+  - 0.0
+  town: Town10HD
+  weather: Normal
