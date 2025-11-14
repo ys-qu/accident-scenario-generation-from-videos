@@ -1,6 +1,6 @@
 # 🚗 Scenario Generation from Accident Videos
 
-Author: [Yansong Qu]()
+Author: [Yansong Qu](https://ys-qu.github.io/)
 
 This repository extracts object trajectories from accident videos in the [CCD dataset](https://github.com/Cogito2012/CarCrashDataset?tab=readme-ov-file#download)
  using object detection and tracking methods. The extracted trajectories are then replayed to reconstruct realistic accident scenes in the CARLA simulator.
@@ -59,8 +59,7 @@ Make sure that you adjust the hyper-parameters in `config_yaml` folder.
 
 ## 🛠️ Usage
 
-### Training
-To train a model, run:
+### Run
 ```bash
 python main.py --CARLA_ROOT /path/to/carla/root   # make sure you have changed the paths
 ```
